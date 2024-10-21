@@ -1,6 +1,8 @@
 # Instagram-Story-Player
 Instagram-like story player in Android using Media3 ExoPlayer Library and Jetpack Compose 
 
+### Medium Article Link - https://medium.com/@amartyasingh2002/73eceec51cd7
+
 <div align="center">
   <video src="https://github.com/user-attachments/assets/14b0d30d-8694-4e37-b883-5fbdead18b29" width="400" />
   
